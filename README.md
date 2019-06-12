@@ -1,1 +1,1 @@
-# child-tracker-and-emergency-notifier
+# Smart Sprinkler System For Golf Course
